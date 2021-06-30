@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PoliceApp</string>
+    <string name="calendar">Calendar</string>
+    <string name="email">Email</string>
+    <string name="penalties">Penalties</string>
+    <string name="calculator">Calculator</string>
+    <string name="handbook">Handbook</string>
+    <string name="purchases">Purchases</string>
+</resources>
